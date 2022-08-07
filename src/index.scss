@@ -1,0 +1,22 @@
+$first-color:#313C4E;
+$second-color:#449399;
+$third-color:white;
+$fourth-color:black;
+
+.App{
+    height: 100vh;
+    width: 100vw;
+    background-image: url('./common/doodle.jpg') ;
+    background-size: cover;
+    font-family: Optima, sans-serif;
+
+}
+body{
+    margin: 0px;
+    overflow: hidden;
+
+
+}
+*{
+    box-sizing: border-box;
+}
